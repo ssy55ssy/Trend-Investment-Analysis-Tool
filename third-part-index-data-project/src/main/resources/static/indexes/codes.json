@@ -1,50 +1,46 @@
 [
     {
         "code": "399975",
-        "name": "证券公司"
+        "name": "securities companies"
     },
     {
         "code": "000015",
-        "name": "红利指数"
+        "name": "dividend index"
     },
     {
         "code": "000016",
-        "name": "上证50"
+        "name": "shanghai securities 50"
     },
     {
         "code": "399812",
-        "name": "养老产业"
+        "name": "pension industry"
     },
     {
         "code": "399971",
-        "name": "中证传媒"
+        "name": "China Securities Media"
     },
     {
         "code": "399006",
-        "name": "创业扳指"
+        "name": "ChiNext Index"
     },
     {
         "code": "000992",
-        "name": "全指金融"
+        "name": "all refers to finance"
     },
     {
         "code": "000991",
-        "name": "全指医药"
+        "name": "all refers to medicine"
     },
     {
         "code": "000300",
-        "name": "沪深300"
+        "name": "CSI 300"
     },
     {
         "code": "000827",
-        "name": "中证环保"
+        "name": "CSI Environmental Protection"
     },
     {
         "code": "000905",
-        "name": "中证500"
-    },
-    {
-        "code": "000905",
-        "name": "test"
+        "name": "CSI 500"
     }
 ]
